@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoloProgrammer.
-- 🌍  I'm based in Mumbai, Maharashtra, India
--  🖥️  See my portfolio at https://prathamshinde-me.herokuapp.com/
+- 🌍 I'm based in Mumbai, Maharashtra, India
+- 🖥️ See my portfolio at https://prathamshinde-me.herokuapp.com/
 - 👀 I’m looking to grab new opportunities to prove myself.
 - 🧠 I’m a MERN Stack Developer currently busy with Next.js 13.
 - 🤝 I'm open to collaborating on Interesting and challenging projects
