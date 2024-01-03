@@ -72,6 +72,12 @@ Mongo, Javascript**
       alt="typescript"
     />
   </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
+      alt="Nodejs"
+    />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&logoColor=black&style=flat-square"
