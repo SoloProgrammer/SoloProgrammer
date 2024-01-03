@@ -43,6 +43,12 @@ Mongo, Javascript**
       src="https://img.shields.io/badge/-Pratham%20Shinde-blue?style=flat-square&logo=Linkedin&logoColor=white"
       alt="pratham-shinde-698a4b240/"
   /></a>
+  <a href="https://github.com/SoloProgrammer/SoloProgrammer" target="blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+      alt="soloprogrammer"
+  /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
