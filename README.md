@@ -46,42 +46,63 @@ Mongo, Javascript**
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+      alt="React"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
+      alt="Redux"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
+      alt="Sass"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"
+      alt="Styled components"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Prisma-06297d?logo=prisma&logoColor=white&style=flat-square"
+      alt="Prisma"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&logoColor=black&style=flat-square"
+      alt="Javascript"
     />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
       width="40"
-      height="40"
     />
-  </a>
+  </a> -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/NEXT.js-black?logo=next.js&logoColor=white&style=flat-square"
+      alt="NextJs"
     />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
       alt="html5"
-      width="40"
-      height="40"
+    />
+  </a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"
+      alt="CSS3"
     />
   </a>
   <a
@@ -90,91 +111,50 @@ Mongo, Javascript**
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
+      alt="NPM"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
       alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img
-      style="filter: invert(1)"
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/VITE-a161fe?logo=vite&logoColor=57b8f0&style=flat-square"
+      alt="Vite"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
+      alt="Bootstrap"
     />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/RTKQuery-b8e3e0?logo=reactquery&logoColor=red&style=flat-square"
+      alt="RTKQuery"
     />
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
+      src="https://img.shields.io/badge/SWR-white?logo=swr&logoColor=black&style=flat-square"
+      alt="SWR"
     />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://img.shields.io/badge/tailwind-white?logo=tailwindcss&logoColor=0bc3b1&style=flat-square"
       alt="tailwind"
-      width="40"
-      height="40"
     />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
       alt="typescript"
-      width="40"
-      height="40"
     />
   </a>
 </p>
