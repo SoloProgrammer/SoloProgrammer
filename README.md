@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on [Nextjs blog
 application](https://dev-blog-a-nextjs-app.vercel.app/) 
 - 🌱 I’m currently
-learning **Prisma, Kafka, Nextjs, Typescript** 
+learning **Prisma, Kafka, Reddis, Docker, Nextjs, Typescript** 
 - 👯 I’m looking to collaborate
 on **Frontend, Backend as well as databases** 
 - 💬 Ask me about **React, Next,
