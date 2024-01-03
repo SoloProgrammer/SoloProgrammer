@@ -22,6 +22,8 @@
   /></a>
 </p>
 
+<hr>
+
 - 🔭 I’m currently working on [Nextjs blog
 application](https://dev-blog-a-nextjs-app.vercel.app/) 
 - 🌱 I’m currently
@@ -31,6 +33,7 @@ on **Frontend, Backend as well as databases**
 - 💬 Ask me about **React, Next,
 Mongo, Javascript**
  - 📫 How to reach me **prathamshinde987@gmail.com**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,7 +44,7 @@ Mongo, Javascript**
       alt="pratham-shinde-698a4b240/"
   /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -164,7 +167,7 @@ Mongo, Javascript**
     />
   </a>
 </p>
-
+<hr>
 <p>
   <img
     align="left"
