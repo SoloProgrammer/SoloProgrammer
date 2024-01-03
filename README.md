@@ -1,4 +1,4 @@
-<h3 align="center">Crafting Web Experiences with Next.js & Prisma with powerfull tool Typescript</h3>
+<h3 align="center">Crafting Web Experiences with Next.js & Prisma and powerfull tool called Typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soloprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="soloprogrammer" /> </p>
 
