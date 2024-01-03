@@ -168,7 +168,7 @@ Mongo, Javascript**
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloprogrammer"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloprogrammer&theme=gotham"
     alt="soloprogrammer"
   />
 </p>
@@ -179,7 +179,7 @@ Mongo, Javascript**
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=soloprogrammer&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=soloprogrammer&theme=gotham"
     alt="soloprogrammer"
   />
 </p>
