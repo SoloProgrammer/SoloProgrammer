@@ -32,7 +32,7 @@ learning **Prisma, Kafka, Reddis, Docker, Nextjs, Typescript**
 on **Frontend, Backend as well as databases** 
 - 💬 Ask me about **React, Next,
 Mongo, Javascript**
- - 📫 How to reach me **prathamshinde987@gmail.com**
+ - 📫 How to reach me 📩 <br><br> <img style="marginTop:'.4rem'" src="https://img.shields.io/badge/-prathamshinde987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
