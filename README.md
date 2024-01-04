@@ -29,7 +29,7 @@
 application](https://dev-blog-a-nextjs-app.vercel.app/)  for my portfolio
 - 🌱 I’m currently
 learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
-- 👯 Passionate Fullstack developer and looking to collaborate
+- 📈 Passionate Fullstack developer and looking to collaborate
 on **Frontend, Backend as well as Databases** 
 - 💬 Ask me about **React, Next,
 Mongo, Javascript**
