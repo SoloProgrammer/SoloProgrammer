@@ -94,7 +94,7 @@ Mongo, Javascript**
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/express-07a40e?logo=express&logoColor=white&style=flat-square"
+      src="https://img.shields.io/badge/Express-07a40e?logo=express&logoColor=white&style=flat-square"
       alt="Expressjs"
     />
   </a>
