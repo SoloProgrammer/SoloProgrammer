@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on [Nextjs blog
 application](https://dev-blog-a-nextjs-app.vercel.app/) 
 - 🌱 I’m currently
-learning **Prisma, Kafka, Reddis, Docker, Nextjs, Typescript** 
+learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
 - 👯 I’m looking to collaborate
 on **Frontend, Backend as well as databases** 
 - 💬 Ask me about **React, Next,
@@ -91,7 +91,7 @@ Mongo, Javascript**
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/javascript-f7df1e?logo=javascript&logoColor=black&style=flat-square"
+      src="https://img.shields.io/badge/Javascript-f7df1e?logo=JavaScript&logoColor=black&style=flat-square"
       alt="Javascript"
     />
   </a>
