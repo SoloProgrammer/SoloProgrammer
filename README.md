@@ -24,12 +24,13 @@
 
 <hr>
 
-- 🔭 I’m currently working on [Nextjs blog
-application](https://dev-blog-a-nextjs-app.vercel.app/) 
+- 🧑‍💻 Software developer at TechSierra(Present)
+- 🔭 I’m currently developing  [Nextjs blog
+application](https://dev-blog-a-nextjs-app.vercel.app/)  for my portfolio
 - 🌱 I’m currently
 learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
-- 👯 I’m looking to collaborate
-on **Frontend, Backend as well as databases** 
+- 👯 Passionate Fullstack developer and looking to collaborate
+on **Frontend, Backend as well as Databases** 
 - 💬 Ask me about **React, Next,
 Mongo, Javascript**
  - 📫 How to reach me 📩 <br><br> <img style="marginTop:'.4rem'" src="https://img.shields.io/badge/-prathamshinde987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
