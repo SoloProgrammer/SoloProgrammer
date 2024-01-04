@@ -31,7 +31,7 @@ application](https://dev-blog-a-nextjs-app.vercel.app/)  for my portfolio
 learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
 - 📈 Passionate Fullstack developer and looking to collaborate
 on **Frontend, Backend as well as Databases** 
-- 💬 Ask me about **React, Next,
+- 🤓 Ask me about **React, Next,
 Mongo, Javascript**
  - 📫 How to reach me 📩 <br><br> <img style="marginTop:'.4rem'" src="https://img.shields.io/badge/-prathamshinde987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
 <hr>
