@@ -52,29 +52,29 @@ Mongo, Javascript**
   /></a>
 </p>
 <hr>
-<h3 align="left">Languages and Tools Worked on:</h3>
+<h3 align="left">Languages and Tools I Worked on:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
       alt="React"
     />
   </a>
   
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/NEXT-black?logo=next.js&logoColor=white&style=flat-square"
       alt="NextJs"
     />
   </a>
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
       alt="Redux"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://redux-toolkit.js.org/tutorials/rtk-query" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/RTKQuery-b8e3e0?logo=reactquery&logoColor=red&style=flat-square"
       alt="RTKQuery"
@@ -86,69 +86,62 @@ Mongo, Javascript**
       alt="typescript"
     />
   </a>
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
       alt="Nodejs"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/en/5x/api.html" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Express-07a40e?logo=express&logoColor=white&style=flat-square"
       alt="Expressjs"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://socket.io/docs/v4/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Socket.io-61dab3?style=flat-square&logo=socket.io&logoColor=black"
       alt="Socket.io"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Javascript-f7df1e?logo=JavaScript&logoColor=black&style=flat-square"
       alt="Javascript"
     />
   </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <a href="https://www.w3schools.in/html5/tutorials/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
       alt="html5"
     />
   </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"
       alt="CSS3"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
       alt="Sass"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"
       alt="Styled components"
     />
   </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+   <a href="https://www.prisma.io/docs/getting-started" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Prisma-06297d?logo=prisma&logoColor=white&style=flat-square"
       alt="Prisma"
     />
   </a>
-<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-    />
-  </a> -->
   <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://www.npmjs.com/"
     target="_blank"
     rel="noreferrer"
   >
@@ -157,31 +150,31 @@ Mongo, Javascript**
       alt="NPM"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
       alt="mongodb"
     />
   </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/VITE-a161fe?logo=vite&logoColor=57b8f0&style=flat-square"
       alt="Vite"
     />
   </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Docker-3a65ea?logo=docker&logoColor=white&style=flat-square"
       alt="Docker"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
       alt="Bootstrap"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/SWR-white?logo=swr&logoColor=black&style=flat-square"
       alt="SWR"
