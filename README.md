@@ -61,7 +61,7 @@ Mongo, Javascript**
   </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/NEXT.js-black?logo=next.js&logoColor=white&style=flat-square"
+      src="https://img.shields.io/badge/NEXT-black?logo=next.js&logoColor=white&style=flat-square"
       alt="NextJs"
     />
   </a>
