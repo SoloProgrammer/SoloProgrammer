@@ -59,12 +59,14 @@ Mongo, Javascript**
       alt="React"
     />
   </a>
+  
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/NEXT-black?logo=next.js&logoColor=white&style=flat-square"
       alt="NextJs"
     />
   </a>
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
@@ -87,6 +89,18 @@ Mongo, Javascript**
     <img
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
       alt="Nodejs"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/express-07a40e?logo=express&logoColor=white&style=flat-square"
+      alt="Expressjs"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Socket.io-61dab3?style=flat-square&logo=socket.io&logoColor=black"
+      alt="Socket.io"
     />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -152,6 +166,12 @@ Mongo, Javascript**
     <img
       src="https://img.shields.io/badge/VITE-a161fe?logo=vite&logoColor=57b8f0&style=flat-square"
       alt="Vite"
+    />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Docker-3a65ea?logo=docker&logoColor=white&style=flat-square"
+      alt="Docker"
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
