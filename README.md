@@ -182,7 +182,7 @@ Mongo, Javascript**
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/tailwind-white?logo=tailwindcss&logoColor=0bc3b1&style=flat-square"
+      src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss&logoColor=0bc3b1&style=flat-square"
       alt="tailwind"
     />
   </a>
