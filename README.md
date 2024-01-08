@@ -38,13 +38,13 @@ Mongo, Javascript**
 
 <h3 align="left">Connect with me 🤝 </h3>
 <p align="left">
-  <a href="https://linkedin.com/in/pratham-shinde-698a4b240/" target="blank"
+  <a href="https://linkedin.com/in/pratham-shinde-698a4b240/" target="_blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-Pratham%20Shinde-blue?style=flat-square&logo=Linkedin&logoColor=white"
       alt="pratham-shinde-698a4b240/"
   /></a>
-  <a href="https://github.com/SoloProgrammer/SoloProgrammer" target="blank"
+  <a href="https://github.com/SoloProgrammer/SoloProgrammer" target="_blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
@@ -54,14 +54,14 @@ Mongo, Javascript**
 <hr>
 <h3 align="left">Languages and Tools I Worked on:</h3>
 <p align="left">
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <a href="https://react.dev/" target="_blank">
     <img
       src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
       alt="React"
     />
   </a>
   
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+   <a href="https://nextjs.org/" target="_blank">
     <img
       src="https://img.shields.io/badge/NEXT-black?logo=next.js&logoColor=white&style=flat-square"
       alt="NextJs"
