@@ -199,12 +199,4 @@ Mongo, Javascript**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=soloprogrammer&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=soloprogrammer&theme=dark"
-    alt="soloprogrammer"
-  />
-</p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=soloprogrammer&theme=radical&border=00EBBB&stroke=EB5454&ring=EB5454&fire=EBC446)](https://git.io/streak-stats)
