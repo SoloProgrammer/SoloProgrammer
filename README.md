@@ -86,6 +86,12 @@ Mongo, Javascript**
       alt="typescript"
     />
   </a>
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/zod-dae9fe?logo=zod&logoColor=4468b5&style=flat-square"
+      alt="zod"
+    />
+  </a>
    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
@@ -126,6 +132,12 @@ Mongo, Javascript**
     <img
       src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
       alt="Sass"
+    />
+  </a>
+  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/React%20Hook%20Form-d96993?logo=react-hook-form&logoColor=fff&style=flat-square"
+      alt="react-hook-form"
     />
   </a>
   <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
