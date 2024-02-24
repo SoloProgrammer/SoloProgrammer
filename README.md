@@ -14,14 +14,6 @@
   />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=soloprogrammer&theme=onedark"
-      alt="soloprogrammer"
-  /></a>
-</p>
-
 <hr>
 <h3 align="left">Languages and Tools I Worked on:</h3>
 <p align="left">
@@ -170,7 +162,7 @@
     />
   </a>
 </p>
-</hr>
+<hr>
 
 - 🧑‍💻 Software developer at TechSierra(Present)
 - 🔭 I’m currently developing  <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">Next.js blog application</a>
@@ -196,6 +188,14 @@ Mongo, Javascript**
     ><img
       align="center"
       src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+      alt="soloprogrammer"
+  /></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=soloprogrammer&theme=onedark"
       alt="soloprogrammer"
   /></a>
 </p>
