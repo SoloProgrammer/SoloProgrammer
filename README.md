@@ -197,7 +197,7 @@ Mongo, Javascript**
       alt="twitter-dev_pratham_0g"
   /></a>
 </p>
-
+<hr>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
