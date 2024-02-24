@@ -23,35 +23,6 @@
 </p>
 
 <hr>
-
-- 🧑‍💻 Software developer at TechSierra(Present)
-- 🔭 I’m currently developing  <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">Next.js blog application</a>
-  for my portfolio
-- 🌱 I’m currently
-learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
-- 📈 Passionate Fullstack developer and looking to collaborate
-on **Frontend, Backend as well as Databases** 
-- 🤓 Ask me about **React, Next,
-Mongo, Javascript**
- - 📫 How to reach me 📩 <br><br> <img style="marginTop:'.4rem'" src="https://img.shields.io/badge/-prathamshinde987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-<hr>
-
-<h3 align="left">Connect with me 🤝 </h3>
-<p align="left">
-  <a href="https://linkedin.com/in/pratham-shinde-698a4b240/" target="_blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/-Pratham%20Shinde-blue?style=flat-square&logo=Linkedin&logoColor=white"
-      alt="pratham-shinde-698a4b240/"
-  /></a>
-  <a href="https://github.com/SoloProgrammer/SoloProgrammer" target="_blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
-      alt="soloprogrammer"
-  /></a>
-</p>
-<hr>
 <h3 align="left">Languages and Tools I Worked on:</h3>
 <p align="left">
   <a href="https://react.dev/" target="_blank">
@@ -198,6 +169,35 @@ Mongo, Javascript**
       alt="tailwind"
     />
   </a>
+</p>
+</hr>
+
+- 🧑‍💻 Software developer at TechSierra(Present)
+- 🔭 I’m currently developing  <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">Next.js blog application</a>
+  for my portfolio
+- 🌱 I’m currently
+learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
+- 📈 Passionate Fullstack developer and looking to collaborate
+on **Frontend, Backend as well as Databases** 
+- 🤓 Ask me about **React, Next,
+Mongo, Javascript**
+ - 📫 How to reach me 📩 <br><br> <img style="marginTop:'.4rem'" src="https://img.shields.io/badge/-prathamshinde987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+<hr>
+
+<h3 align="left">Connect with me 🤝 </h3>
+<p align="left">
+  <a href="https://linkedin.com/in/pratham-shinde-698a4b240/" target="_blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-Pratham%20Shinde-blue?style=flat-square&logo=Linkedin&logoColor=white"
+      alt="pratham-shinde-698a4b240/"
+  /></a>
+  <a href="https://github.com/SoloProgrammer/SoloProgrammer" target="_blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+      alt="soloprogrammer"
+  /></a>
 </p>
 <hr>
 <p>
