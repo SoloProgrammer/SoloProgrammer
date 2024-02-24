@@ -190,6 +190,12 @@ Mongo, Javascript**
       src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"
       alt="soloprogrammer"
   /></a>
+   <a href="https://twitter.com/dev_pratham_0g" target="_blank"
+    ><img
+      align="center"
+      src="https://img.shields.io/badge/-Twitter-539ae6?style=flat-square&logo=twitter&logoColor=white"
+      alt="twitter-dev_pratham_0g"
+  /></a>
 </p>
 
 <p align="left">
