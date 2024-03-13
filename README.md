@@ -165,7 +165,7 @@
 <hr>
 
 - 🧑‍💻 Software developer at TechSierra(Present)
-- 🔭 Visit my blog application crafted with love and designed with free mind <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> a Next.js SaaS application
+- 🔭 Visit my blog application <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> crafted with love and designed with a free mind a Next.js SaaS application
 - 🌱 I’m currently
 working on **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
 - 📈 Passionate Fullstack developer and open to collaborate
