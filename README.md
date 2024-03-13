@@ -165,13 +165,13 @@
 <hr>
 
 - 🧑‍💻 Software developer at TechSierra(Present)
-- 🔭 Building <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> a Next.js SaaS application
+- 🔭 Visit my blog application crafted with love and designed with free mind <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> a Next.js SaaS application
 - 🌱 I’m currently
-learning **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
-- 📈 Passionate Fullstack developer and looking to collaborate
-on **Frontend, Backend as well as Databases** 
+working on **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
+- 📈 Passionate Fullstack developer and open to collaborate
+on **Frontend, Backend as well as Databases** projects 
 - 🤓 Ask me about **React, Next,
-Mongo, Javascript**
+Mongo, Javascript, Typescript, Javascript, SDLC **
  - 📫 How to reach me 📩 <br><br> <img style="marginTop:'.4rem'" src="https://img.shields.io/badge/-prathamshinde987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
 <hr>
 
