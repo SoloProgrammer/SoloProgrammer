@@ -3,7 +3,7 @@
 ![logo](https://user-images.githubusercontent.com/76880102/157709681-304db8cb-e8b8-46b3-93a5-d37d4f40c698.PNG)
 
 <h3 align="center">
-  Not another typical web developer It's the one who crafts Responsive UI and Web Experiences with Next.js, Prisma, (...) and a powerful tool called
+  Not another typical web developer It's the one who crafts Responsive UI and Web Experiences with Next.js, Prisma, (...) with a powerful tool called
   Typescript
 </h3>
 
@@ -165,7 +165,7 @@
 <hr>
 
 - 🧑‍💻 Software developer at TechSierra(Present)
-- 🔭 Visit my blog application <a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> crafted with love and designed with a free mind a Next.js SaaS application(already have 10+ blogs posted by developers)
+- 🚀 Explore my NextJs blog application,<a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> crafted with creativity & designed with love. It's completely free to use and already features 10+ blogs posted by developers.
 - 🌱 I’m currently
 working on **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
 - 📈 Passionate Fullstack developer and open to collaborate
