@@ -55,6 +55,12 @@
       alt="zod"
     />
   </a>
+ <a href="https://www.framer.com/motion/examples/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-FramerMotion-white?style=flat-square&logo=framer&logoColor=375efb"
+      alt="FramerMotion"
+    />
+  </a>
    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
