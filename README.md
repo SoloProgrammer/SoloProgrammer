@@ -51,7 +51,7 @@
   </a>
   <a href="https://zod.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/zod-dae9fe?logo=zod&logoColor=4468b5&style=flat-square"
+      src="https://img.shields.io/badge/Zod-dae9fe?logo=zod&logoColor=4468b5&style=flat-square"
       alt="zod"
     />
   </a>
