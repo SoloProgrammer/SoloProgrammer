@@ -3,7 +3,7 @@
 ![logo](https://user-images.githubusercontent.com/76880102/157709681-304db8cb-e8b8-46b3-93a5-d37d4f40c698.PNG)
 
 <h3 align="center">
-  Not another typical web developer 👨‍💻 It's the one who crafts Responsive UI and Web Experiences that focuses on attention to detail 🌟 with Next.js, Prisma, Saas (...) + a powerful tool called 
+  Not another typical web developer 👨‍💻 It's the one who crafts Modern, Responsive, Scalable UI and Web Experiences that focuses on attention to detail 🌟 with Next.js, Prisma, Saas (...) + a powerful tool called 
   Typescript 💪
 </h3>
 
