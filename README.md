@@ -170,7 +170,7 @@
 </p>
 <hr>
 
-- 🧑‍💻 Open to collaborating with the greatest projects out there and making them user handy and scalable
+- 🧑‍💻 Open to collaborating with the greatest projects out there, reach out to hire me!
 - 🚀 Explore my NextJs blog application,<a target="_blank" href="https://dev-hub-nextjs-app.vercel.app">DevhuB</a> crafted with creativity & designed with love. It's completely free to use and already features 10+ blogs posted by developers.
 - 🌱 I’m currently
 working on **Prisma, Kafka, Redis, Docker, Nextjs, Typescript** 
