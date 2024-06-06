@@ -218,6 +218,6 @@ Mongo, Javascript, Typescript, Javascript, SDLC **
     alt="soloprogrammer"
   />
 </p>
-
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=soloprogrammer&theme=radical&border=00EBBB&stroke=EB5454&ring=EB5454&fire=EBC446)](https://git.io/streak-stats)
