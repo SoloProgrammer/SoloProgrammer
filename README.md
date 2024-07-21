@@ -73,6 +73,22 @@
       alt="Expressjs"
     />
   </a>
+  <a
+    href="https://www.npmjs.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
+      alt="NPM"
+    />
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
+      alt="mongodb"
+    />
+  </a>
   <a href="https://socket.io/docs/v4/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Socket.io-61dab3?style=flat-square&logo=socket.io&logoColor=black"
@@ -119,22 +135,6 @@
     <img
       src="https://img.shields.io/badge/Prisma-06297d?logo=prisma&logoColor=white&style=flat-square"
       alt="Prisma"
-    />
-  </a>
-  <a
-    href="https://www.npmjs.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
-      alt="NPM"
-    />
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
-      alt="mongodb"
     />
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
