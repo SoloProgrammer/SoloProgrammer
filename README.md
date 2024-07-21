@@ -15,7 +15,7 @@
 </p>
 
 <hr>
-<h3 align="left">Languages and Tools I Worked on:</h3>
+<h3 align="left">Languages, Frameworks & Tools: </h3>
 <p align="left">
   <a href="https://react.dev/" target="_blank">
     <img
