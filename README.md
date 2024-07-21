@@ -73,16 +73,6 @@
       alt="Expressjs"
     />
   </a>
-  <a
-    href="https://www.npmjs.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
-      alt="NPM"
-    />
-  </a>
   <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
@@ -105,6 +95,16 @@
     <img
       src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
       alt="html5"
+    />
+  </a>
+  <a
+    href="https://www.npmjs.com/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
+      alt="NPM"
     />
   </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
