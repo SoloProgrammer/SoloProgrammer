@@ -61,6 +61,18 @@
       alt="FramerMotion"
     />
   </a>
+  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/SWR-white?logo=swr&logoColor=black&style=flat-square"
+      alt="SWR"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss&logoColor=0bc3b1&style=flat-square"
+      alt="tailwind"
+    />
+  </a>
    <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
@@ -153,18 +165,6 @@
     <img
       src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
       alt="Bootstrap"
-    />
-  </a>
-  <a href="https://swr.vercel.app/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/SWR-white?logo=swr&logoColor=black&style=flat-square"
-      alt="SWR"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Tailwind-white?logo=tailwindcss&logoColor=0bc3b1&style=flat-square"
-      alt="tailwind"
     />
   </a>
 </p>
